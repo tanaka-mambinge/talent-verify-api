@@ -1,4 +1,7 @@
-# Talent verify ui
+# Talent verify api
 
-- To get started, clone the repository and install the dependencies `npm install`
-- To run the project, use `npm run dev` or `npm run turbo` for faster compilation
+- To get started, first create a virtual environment `python -m venv env`
+- Then activate the virtual environment `source env/bin/activate`
+- Install the requirements `pip install -r requirements.txt`
+- Run the server `fastapi dev main.py`
+- 
