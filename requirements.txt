@@ -1,0 +1,6 @@
+alembic==1.13.1
+fastapi==0.111.0
+marshmallow==3.21.3
+polars==0.20.31
+pydantic==2.7.4
+sqlmodel==0.0.19

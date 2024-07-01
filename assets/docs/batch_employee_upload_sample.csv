@@ -1,0 +1,3 @@
+company_name,department,employee_name,employee_id,role,role_start,role_end,duties
+OpenAi,Research,Andrej Karpathy,oai-r-1,Head of research,2020-01-01,2024-01-01,Lorem ipsum
+OpenAi,Board,Sam Altman,ceo-1,CEO,2016-01-01,,Lorem ipsum
