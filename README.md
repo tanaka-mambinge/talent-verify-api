@@ -4,4 +4,3 @@
 - Then activate the virtual environment `source env/bin/activate`
 - Install the requirements `pip install -r requirements.txt`
 - Run the server `fastapi dev main.py`
-- 
